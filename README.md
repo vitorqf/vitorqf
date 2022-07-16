@@ -1,20 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Hi! I'm Vitor. Currently I'm searching for my first developing experience. I've been studying ReactJS, NextJS, NodeJS, TailwindCSS and all of this front-end ecossystem. Passionated about technology and discovering new things. <strong>Building something.</strong> 
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Main developing language: <strong>Typescript</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Techpack: <strong>ReactJS, NodeJS, NextJS, TailwindCSS, GraphQL & GraphCMS</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Here is how you can find me: ⤵️
 </p>
 
 <p align="left">
