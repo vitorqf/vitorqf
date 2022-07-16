@@ -22,5 +22,10 @@
 
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vitor2806" /></a>
+  
+  
+  <a href="#" alt="Portfolio">
+  <img src="https://img.shields.io/badge/-portfolio-blueviolet?style=flat-square&link=https://vitorrafael.vercel.app" /></a>
+ 
 
   </p>
