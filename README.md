@@ -17,14 +17,14 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:reqfvitor@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=rqfvitor@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://linkedin.com/in/vitor2806" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vitor2806" /></a>
   
   
-  <a href="#" alt="Portfolio">
+  <a href="https://vitorrafael.vercel.app" alt="Portfolio">
   <img src="https://img.shields.io/badge/-portfolio-blueviolet?style=flat-square&link=https://vitorrafael.vercel.app" /></a>
  
 
