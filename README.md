@@ -29,10 +29,11 @@
  
 
   </p>
-  
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=vitor2806&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor2806&theme=radical&layout=compact" />
+<br>
+
+<div style="display: flex">
+ <img src="https://github-readme-stats.vercel.app/api?username=vitor2806&show_icons=true&theme=radical" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor2806&theme=radical&layout=compact" />
 </div>
 
