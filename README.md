@@ -31,6 +31,8 @@
   </p>
   
 
-  [![card](https://github-readme-stats.vercel.app/api?username=vitor2806&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor2806&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=vitor2806&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor2806&theme=radical&layout=compact" />
+</div>
 
