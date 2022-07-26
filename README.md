@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hi! I'm Vitor. Currently I'm searching for my first developing experience. I've been studying ReactJS, NextJS, NodeJS, TailwindCSS and all of this front-end ecossystem. Passionated about technology and discovering new things. <strong>Building something.</strong> 
+  Hi! I'm Vitor. Currently I'm looking for my first developing experience. I've been studying ReactJS, NextJS, NodeJS, TailwindCSS and all of this front-end ecossystem. Passionated about technology and discovering new things. <strong>Building something.</strong> 
 </p>
 
 <p align="left">
