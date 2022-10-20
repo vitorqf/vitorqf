@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:reqfvitor@gmail.com" alt="Gmail">
+  <a title="rqfvitor@gmail.com" href="mailto:reqfvitor@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=rqfvitor@gmail.com" /></a>
 
   <a href="https://linkedin.com/in/vitor2806" alt="Linkedin">
@@ -25,7 +25,7 @@
   
   
   <a href="https://vitorrafael.vercel.app" alt="Portfolio">
-  <img src="https://img.shields.io/badge/-portfolio-blueviolet?style=flat-square&link=https://vitorrafael.vercel.app" /></a>
+  <img src="https://img.shields.io/badge/-portfolio-blueviolet?style=flat-square&link=https://vitorrafael.com.br" /></a>
  
 
   </p>
