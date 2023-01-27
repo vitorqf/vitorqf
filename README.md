@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Techpack: <strong>ReactJS, NodeJS, NextJS, TailwindCSS, GraphQL & GraphCMS</strong>
+  💼 Techpack: <strong>ReactJS, NodeJS, NextJS, TailwindCSS, GraphQL & GraphCMS, Python</strong>
 </p>
 
 <p align="left">
