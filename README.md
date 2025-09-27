@@ -1,38 +1,19 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+# Hi there, I'm Vitor 👋
 
-<p align="left"> 
-  Hi! I'm Vitor. Currently I'm looking for my first developing experience. I've been studying ReactJS, NextJS, NodeJS, TailwindCSS and all of this front-end ecossystem. Passionated about technology and discovering new things. <strong>Building something.</strong> 
-</p>
+## 🚀 Software Engineer | Next.js | React | TypeScript
 
-<p align="left">
-  🦄 Main developing language: <strong>Typescript</strong>
-</p>
+I'm a Software Engineer passionate about building scalable, performant, and user-friendly applications.  
+Over the past 3+ years, I've worked on impactful projects ranging from **national-scale streaming platforms** to **driver-behavior apps**, always focusing on clean code and elegant solutions.
 
-<p align="left">
-  💼 Techpack: <strong>ReactJS, NodeJS, NextJS, TailwindCSS, GraphQL & GraphCMS, Python</strong>
-</p>
 
-<p align="left">
-  💌 Here is how you can find me: ⤵️
-</p>
+## 🌱 What I'm learning
 
-<p align="left">
-  <a title="rqfvitor@gmail.com" href="mailto:reqfvitor@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=rqfvitor@gmail.com" /></a>
+- Advanced **Next.js** patterns  
+- Exploring **web performance & scalability**  
+- Diving deeper into **system design for frontend**  
 
-  <a href="https://linkedin.com/in/vitor2806" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vitor2806" /></a>
-  
-  
-  <a href="https://vitorrafael.vercel.app" alt="Portfolio">
-  <img src="https://img.shields.io/badge/-portfolio-blueviolet?style=flat-square&link=https://vitorrafael.com.br" /></a>
- 
 
-  </p>
+## 📫 Let's Connect
 
-<br>
-
-<div style="display: flex; align-items: flex-start;">
-
-</div>
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/vitorqf)  
+- ✉️ rqfvitor@gmail.com  
