@@ -1,19 +1,9 @@
 # Hi there, I'm Vitor 👋
 
-## 🚀 Software Engineer | Next.js | React | TypeScript
-
-I'm a Software Engineer passionate about building scalable, performant, and user-friendly applications.  
-Over the past 3+ years, I've worked on impactful projects ranging from **national-scale streaming platforms** to **driver-behavior apps**, always focusing on clean code and elegant solutions.
-
-
-## 🌱 What I'm learning
-
-- Advanced **Next.js** patterns  
-- Exploring **web performance & scalability**  
-- Diving deeper into **system design for frontend**  
-
+Frontend-leaning fullstack engineer with 4+ years shipping production web and mobile apps in React, Next.js, and
+TypeScript — across large-scale streaming ([Tela Brasil](https://telabrasil.cultura.gov.br/), mobility, and SaaS products. Owns features end-to-end: architecture, UI, API
+integration, testing, and CI/CD.
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vitorqf)  
-- ✉️ rqfvitor@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vitorqf)
